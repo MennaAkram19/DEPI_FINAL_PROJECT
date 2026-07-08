@@ -228,7 +228,7 @@ Risk Prediction
 - **Mennatallah Mohsen**
 - **Aisha Samir**
 - **Rola Hany**
-- **Habiba Ashraf**
+  
 
 **Track:** Data Science & Artificial Intelligence
 
